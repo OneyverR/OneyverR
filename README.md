@@ -12,6 +12,11 @@ Soy ingeniero electrónico y me apasiona entender cómo funcionan las cosas, des
 - 🔧 Disfruto experimentar, automatizar y aprender haciendo.
 - 🚀 Mi objetivo: crear herramientas web útiles, accesibles y bien pensadas.
 
+## :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 🛠️ En mi camino de aprendizaje
 
 ```text
