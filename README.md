@@ -18,11 +18,11 @@ Soy ingeniero electrónico y me apasiona entender cómo funcionan las cosas, des
 2. ⬆️ Pushed undefined commit(s) to [OneyverR/OneyverR](https://github.com/OneyverR/OneyverR)<br>
 3. ⬆️ Pushed undefined commit(s) to [OneyverR/OneyverR](https://github.com/OneyverR/OneyverR)<br>
 4. ⬆️ Pushed undefined commit(s) to [OneyverR/OneyverR](https://github.com/OneyverR/OneyverR)<br>
-5. ⬆️ Pushed undefined commit(s) to [OneyverR/OneyverR.github.io](https://github.com/OneyverR/OneyverR.github.io)<br>
+5. ⬆️ Pushed undefined commit(s) to [OneyverR/OneyverR](https://github.com/OneyverR/OneyverR)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 13th, 2026, 6:37:52 PM
+Last Updated: Sunday, September 13th, 2026, 6:45:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ En mi camino de aprendizaje
